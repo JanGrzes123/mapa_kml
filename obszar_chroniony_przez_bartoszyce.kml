@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>obszar_chroniony_przez_bartoszyce</name>
+		<Placemark>
+			<name>Chronione przez JRG Bartoszyce
+</name>
+			<description><![CDATA[Tel: 89 764-98-01  MSW 732 11 00]]></description>
+			<styleUrl>#poly-9C27B0-1-94</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>21.0328102,54.1428307,0.0 21.0467148,54.1441379,0.0 21.0542679,54.1453444,0.0 21.0630226,54.148964,0.0 21.0690308,54.1527843,0.0 21.0695457,54.1552472,0.0 21.0693741,54.1610269,0.0 21.0698891,54.1679614,0.0 21.0698891,54.1718804,0.0 21.0694599,54.1783109,0.0 21.050491,54.178713,0.0 21.034012,54.179316,0.0 21.032295,54.173689,0.0 21.029549,54.16967,0.0 21.024056,54.166655,0.0 21.037445,54.162233,0.0 21.036072,54.158012,0.0 21.041565,54.145747,0.0 21.034698,54.145546,0.0 21.0328102,54.1428307,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Chonione przez JRG Bartoszyce
+</name>
+			<description><![CDATA[Tel: 89 764-98-01  MSW 732 11 00]]></description>
+			<styleUrl>#poly-9C27B0-1-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>21.054268,54.209645,0.0 21.0611343,54.2120541,0.0 21.0755539,54.2148648,0.0 21.0906601,54.218679,0.0 21.1016464,54.2208871,0.0 21.1116028,54.2234964,0.0 21.1315155,54.2269085,0.0 21.1562347,54.2311229,0.0 21.1672211,54.232929,0.0 21.180954,54.2371428,0.0 21.2036133,54.2469734,0.0 21.2132263,54.2517876,0.0 21.2121964,54.2632189,0.0 21.2115097,54.2678307,0.0 21.2104797,54.2718404,0.0 21.2152863,54.2758499,0.0 21.2190628,54.2848696,0.0 21.2197495,54.2968928,0.0 21.218033,54.31392,0.0 21.2115097,54.3113161,0.0 21.2036133,54.3097137,0.0 21.199493,54.309113,0.0 21.194687,54.304305,0.0 21.19606,54.300299,0.0 21.18679,54.297694,0.0 21.185074,54.299097,0.0 21.174431,54.29509,0.0 21.172371,54.297694,0.0 21.168594,54.297494,0.0 21.163788,54.286673,0.0 21.163444,54.283868,0.0 21.172028,54.280059,0.0 21.175118,54.276852,0.0 21.187477,54.275649,0.0 21.190224,54.270036,0.0 21.18679,54.267229,0.0 21.187134,54.258607,0.0 21.181297,54.258206,0.0 21.172028,54.25981,0.0 21.164818,54.259609,0.0 21.154862,54.261013,0.0 21.151085,54.258607,0.0 21.145592,54.259409,0.0 21.132202,54.269034,0.0 21.119842,54.276451,0.0 21.111603,54.277454,0.0 21.109543,54.280059,0.0 21.101303,54.285471,0.0 21.098556,54.283667,0.0 21.092377,54.256601,0.0 21.059761,54.25981,0.0 21.059761,54.255598,0.0 21.051521,54.247375,0.0 21.046372,54.248177,0.0 21.044998,54.243162,0.0 21.037788,54.232929,0.0 21.028175,54.225504,0.0 21.043282,54.217475,0.0 21.049805,54.21888,0.0 21.058388,54.214062,0.0 21.054268,54.209645,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-9C27B0-1-77-normal'>
+			<LineStyle>
+				<color>ffB0279C</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4DB0279C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-9C27B0-1-77-highlight'>
+			<LineStyle>
+				<color>ffB0279C</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4DB0279C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-9C27B0-1-77'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-9C27B0-1-77-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-9C27B0-1-77-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-9C27B0-1-94-normal'>
+			<LineStyle>
+				<color>ffB0279C</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>5EB0279C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-9C27B0-1-94-highlight'>
+			<LineStyle>
+				<color>ffB0279C</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>5EB0279C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-9C27B0-1-94'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-9C27B0-1-94-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-9C27B0-1-94-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
