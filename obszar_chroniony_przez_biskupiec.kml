@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>obszar_chroniony_przez_biskupiec</name>
+		<Placemark>
+			<name>Chronione przez JRG Biskupiec
+</name>
+			<description><![CDATA[Tel: 89 522-92-05  MSW 731 92 06]]></description>
+			<styleUrl>#poly-FFD600-1-105</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>21.1521149,53.9609336,0.0 21.1450768,53.970224,0.0 21.1419868,53.9706279,0.0 21.1359787,53.9727483,0.0 21.1323738,53.9746666,0.0 21.1320305,53.9765848,0.0 21.1280823,53.9772915,0.0 21.1258507,53.9778972,0.0 21.1241341,53.9759791,0.0 21.121216,53.975474,0.0 21.1189842,53.9718396,0.0 21.117439,53.966387,0.0 21.106453,53.963559,0.0 21.10611,53.96053,0.0 21.100616,53.951035,0.0 21.103706,53.947196,0.0 21.112976,53.945378,0.0 21.117783,53.943963,0.0 21.117783,53.940124,0.0 21.122589,53.937698,0.0 21.128769,53.940932,0.0 21.1318588,53.9431042,0.0 21.136322,53.946388,0.0 21.146278,53.95851,0.0 21.145592,53.960732,0.0 21.150398,53.96053,0.0 21.1521149,53.9609336,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-FFD600-1-105-normal'>
+			<LineStyle>
+				<color>ff00D6FF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>6900D6FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FFD600-1-105-highlight'>
+			<LineStyle>
+				<color>ff00D6FF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>6900D6FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FFD600-1-105'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFD600-1-105-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFD600-1-105-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
