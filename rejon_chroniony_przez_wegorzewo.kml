@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>obszar_chroniony_przez_wegorzewo</name>
+		<Placemark>
+			<name>Chronione przez JRG Węgorzewo
+</name>
+			<description><![CDATA[Tel: 87 427-75-00   MSW 735 65 00]]></description>
+			<styleUrl>#poly-F9A825-1-163</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>21.5970612,54.2057293,0.0 21.597404,54.206432,0.0 21.6010946,54.2139612,0.0 21.6041856,54.218027,0.0 21.5989494,54.2191307,0.0 21.596718,54.219683,0.0 21.587105,54.223898,0.0 21.585045,54.221489,0.0 21.586418,54.218679,0.0 21.585045,54.216471,0.0 21.5833282,54.2165712,0.0 21.5852165,54.2150656,0.0 21.5865898,54.2140116,0.0 21.5864182,54.2132587,0.0 21.5873623,54.2125058,0.0 21.5888214,54.2118533,0.0 21.5909672,54.2105985,0.0 21.5931988,54.2085907,0.0 21.5970612,54.2057293,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Chronione przez JRG Węgorzewo
+</name>
+			<description><![CDATA[Tel: 87 427-75-00   MSW 735 65 00]]></description>
+			<styleUrl>#poly-F9A825-1-130</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>21.5475372,54.2719909,0.0 21.5526862,54.2729929,0.0 21.5619562,54.2762009,0.0 21.5660762,54.2792079,0.0 21.5671062,54.2830159,0.0 21.5636732,54.2856209,0.0 21.5581802,54.2858219,0.0 21.5564632,54.2888279,0.0 21.5592102,54.3004489,0.0 21.5554332,54.3008499,0.0 21.5533732,54.3038549,0.0 21.5506272,54.3054569,0.0 21.5482232,54.3088629,0.0 21.5506272,54.3104649,0.0 21.5499402,54.3144709,0.0 21.5506272,54.3158719,0.0 21.5578362,54.3174739,0.0 21.5588662,54.3226809,0.0 21.5531157,54.322881,0.0 21.5526862,54.3252839,0.0 21.5501118,54.3250835,0.0 21.5441037,54.3248833,0.0 21.5355206,54.3250835,0.0 21.5296842,54.3254839,0.0 21.5252209,54.3249834,0.0 21.5145779,54.3237821,0.0 21.5054799,54.3241325,0.0 21.4955659,54.3239829,0.0 21.4884852,54.3230809,0.0 21.4682294,54.3200777,0.0 21.4635946,54.3197773,0.0 21.4625646,54.2933363,0.0 21.5034199,54.2937371,0.0 21.510458,54.2873246,0.0 21.5180111,54.2816127,0.0 21.5252209,54.2775036,0.0 21.5350056,54.2725923,0.0 21.5384388,54.2716901,0.0 21.5475372,54.2719909,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-F9A825-1-130-normal'>
+			<LineStyle>
+				<color>ff25A8F9</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8225A8F9</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-F9A825-1-130-highlight'>
+			<LineStyle>
+				<color>ff25A8F9</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>8225A8F9</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-F9A825-1-130'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F9A825-1-130-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F9A825-1-130-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F9A825-1-163-normal'>
+			<LineStyle>
+				<color>ff25A8F9</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>A325A8F9</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-F9A825-1-163-highlight'>
+			<LineStyle>
+				<color>ff25A8F9</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>A325A8F9</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-F9A825-1-163'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F9A825-1-163-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F9A825-1-163-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

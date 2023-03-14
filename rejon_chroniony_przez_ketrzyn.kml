@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>rejon_chroniony_przez_ketrzyn</name>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-A52714-3-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>21.574745,54.146551,0.0 21.5950012,54.1393112,0.0 21.5951729,54.1365959,0.0 21.5994644,54.1350873,0.0 21.612339,54.1310642,0.0 21.6226387,54.1273425,0.0 21.6222954,54.1239223,0.0 21.6233253,54.1186908,0.0 21.6267586,54.1171816,0.0 21.6252136,54.1158736,0.0 21.6186905,54.1144649,0.0 21.613369,54.1153705,0.0 21.6095924,54.1157729,0.0 21.6053009,54.114163,0.0 21.5984344,54.1110436,0.0 21.592598,54.1071188,0.0 21.5895081,54.1037975,0.0 21.5838432,54.0995701,0.0 21.5828133,54.0966509,0.0 21.579895,54.0959462,0.0 21.5761185,54.0965502,0.0 21.5721703,54.0957449,0.0 21.5677071,54.0974562,0.0 21.5647888,54.0968522,0.0 21.5661621,54.0953422,0.0 21.5654755,54.0934295,0.0 21.568737,54.0928254,0.0 21.5647888,54.0891003,0.0 21.559982,54.087187,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-A52714-3-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>21.0681725,54.1240229,0.0 21.0657692,54.1132574,0.0 21.0566711,54.1022878,0.0 21.0427666,54.0878921,0.0 21.0352135,54.0777214,0.0 21.0219955,54.0537452,0.0 21.0111809,54.03651,0.0 21.0272312,54.0422558,0.0 21.0333252,54.0471946,0.0 21.0338402,54.0503189,0.0 21.0378742,54.0543498,0.0 21.0443974,54.0584811,0.0 21.0495472,54.0610503,0.0 21.0540104,54.057675,0.0 21.0568428,54.0557101,0.0 21.0619926,54.0556094,0.0 21.0654259,54.0560628,0.0 21.0700607,54.0552063,0.0 21.0721207,54.052939,0.0 21.0736656,54.0507724,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-A52714-3-nodesc-normal'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>3</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-A52714-3-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>5.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-A52714-3-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A52714-3-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A52714-3-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
