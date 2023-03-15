@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>OSP_KSRG</name>
+		<Placemark>
+			<name>OSP KSRG Korsze <br />
+</name>
+			<description>
+			Pojazdy: GCBARt 4/32 Mercedes<br />
+			GCBA 4/32 Jelcz  ,  SLOP VW<br />
+			Wyposażenie: PSP-R1 , detektor wielogazowy , Hydraulika<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1337873,54.1716355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP KSRG Reszel <br /></name>
+			<description>
+			GCBARt 5/32 Jelcz , GBAM 2,5/16 Star , SLOP VW<br />
+			Wyposazenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1409046,54.0495016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP KSRG Srokowo <br /></name>
+			<description>
+			Pojazdy: GBARt 2,5/25 Man<br />
+			GBAM 2,7/16 Star , SH-18 Star , Łodź<br />
+			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br /></description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.5266719,54.2137975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP KSRG Barciany<br />
+</name>
+			<description>
+			Pojazdy: GBARt 2,7/28 Mercedes<br />
+			GBAM 2,5/16 Star<br />
+			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3500994,54.2203296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP KSRG Wilkowo<br />
+</name>
+			<description>
+			Pojazdy: GBARt 2,5/24 Mercedes<br />
+			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3048398,54.0092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP KSRG Drogosze<br />
+</name>
+			<description>
+			Pojazdy: GCBARt 4/38 Scania<br />
+			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.2418938,54.208415,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1499-C2185B-normal'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/osp_ksrg.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1499-C2185B-highlight'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/osp_ksrg.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1499-C2185B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1499-C2185B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1499-C2185B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
