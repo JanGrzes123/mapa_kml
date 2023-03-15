@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>OSP_SPOZA_KSRG</name>
+		<Placemark>
+			<name>OSP Pilec <br />
+</name>
+			<description>
+			Pojazdy: GBAM 2,5/16 Star<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.2363230,53.9839330,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Jegławki <br /></name>
+			<description>
+			Pojazdy: GBARt 2/30 Renault<br />
+			Sprzęt: Zestaw Hydrauliczny<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.4496990,54.2333171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Mołtajny <br /></name>
+			<description>
+			Pojazdy: GBAM 2,5/16 Star<br />
+			Sprzęt : detektor wiekogazowy<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3526250,54.2979851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Skandawa<br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.2570710,54.2728860,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Karolewo<br />
+</name>
+			<description>
+			Pojazdy: GBM 2,5/16/8 Star<br />
+			        : GBA Rt 3,5/27 Iveco<br/>
+			Sprzęt: Zestaw PSP R1<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.4232281,54.0746550,0.0</coordinates>
+			</Point>
+		</Placemark>
+	<Style id='icon-1499-C2185B-normal'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+				  <href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/osp_spoza.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1499-C2185B-highlight'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/osp_ksrg.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1499-C2185B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1499-C2185B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1499-C2185B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
