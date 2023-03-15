@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>kolej</name>
+		<Placemark>
+			<name>Przejazd kolejowy w Kruszewcu</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.4136463,54.0733938,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd Kolejowy ( Chopina)</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.3754302,54.0733308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd kolejowy w Biedaszkach</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.3159576,54.0719789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd kolejowy w Filipóce</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.3012081,54.0792714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd kolejowy w Tołkinach</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Dyżurny ruch w Tolkinach: 89 677 27 90<br />
+			Dyżurny ruch w Korszach: 89 677 28 00<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.2258756,54.1254816,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd kolejowy w Martianach</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.5215154,54.0254058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd kolejowy w Łankiejmach</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Dyżurny ruch w Korszach: 89 677 28 00<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.0801566,54.149828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Przejazd kolejowy w Skandawie</name>
+			<description>
+			POWIADOMIĆ KOLEJ O ZDARZENIU<br />
+			Zarządzanie Ruchem kolejowym Gdańsk<br />
+			Tel: 600-084-175/165<br />
+			Całodobowo Dyspozytor: 608-353-164<br />
+			58 721 52 21/58 721 93 11<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.2702501,54.2686765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+							<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kolej1.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kolej1.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
