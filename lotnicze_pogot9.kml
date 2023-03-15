@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>lotnicze_pogotowie</name>
+    <Style id="icon-1898-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+         <href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/lpr.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1898-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/lpr.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1898-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/lpr.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/lpr.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Barciany ( boisko )
+</name>
+      <description><br />Szerokość geograficzna - 54<sup>o</sup> 00,01<sup>'</sup> N.<br />Długość geograficzna - 21<sup>o</sup> 17,63<sup>'</sup> E.<br />
+          <a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/zasady_przyjmowania_smiglowca.pdf">Zasady przyjmowania śmigłowca LPR</a>
+          </description>
+      <styleUrl>#icon-1898-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.3480471,54.2153531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Korsze ( boisko )
+</name>
+      <description><br />Szerokość geograficzna - 54<sup>o</sup> 00,01<sup>'</sup> N.<br />Długość geograficzna - 21<sup>o</sup> 17,63<sup>'</sup> E.<br />
+          <a href="http://www.straz.ketrzyn.pl/mapa/zasady_przyjmowania_smiglowca.pdf">Zasady przyjmowania śmigłowca LPR</a>
+          </description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.1537321,54.1699901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Robawy ( boisko )
+</name>
+      <description><br />Szerokość geograficzna - 54<sup>o</sup> 00,01<sup>'</sup> N.<br />Długość geograficzna - 21<sup>o</sup> 17,63<sup>'</sup> E.<br />
+          <a href="http://www.straz.ketrzyn.pl/mapa/zasady_przyjmowania_smiglowca.pdf">Zasady przyjmowania śmigłowca LPR</a>
+          </description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.1528331,54.0377061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Srokowo ( boisko )
+</name>
+      <description><br />Szerokość geograficzna - 54<sup>o</sup> 00,01<sup>'</sup> N.<br />Długość geograficzna - 21<sup>o</sup> 17,63<sup>'</sup> E.<br />
+          <a href="http://www.straz.ketrzyn.pl/mapa/zasady_przyjmowania_smiglowca.pdf">Zasady przyjmowania śmigłowca LPR</a>
+          </description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.5306361,54.2141891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lazdoje ( boisko )
+</name>
+      <description><br />Szerokość geograficzna - 54<sup>o</sup> 00,01<sup>'</sup> N.<br />Długość geograficzna - 21<sup>o</sup> 17,63<sup>'</sup> E.<br />
+          <a href="http://www.straz.ketrzyn.pl/mapa/zasady_przyjmowania_smiglowca.pdf">Zasady przyjmowania śmigłowca LPR</a>
+          </description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.2938411,54.0002871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
