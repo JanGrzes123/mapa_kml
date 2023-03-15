@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>JRG_1</name>
+		<Placemark>
+			<name>JRG Węgorzewo</name>
+			<description><![CDATA[Tel: 87 427 75 00  MSW 7356500]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.7456931,54.2127693,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRG Mrągowo</name>
+			<description><![CDATA[Tel: 89 741 05 00  MSW 7328 500]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.307447,53.8641506,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRG Giżycko</name>
+			<description><![CDATA[Tel: 87 429 91 00 MSW 7352 100]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.7831273,54.0358901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRG 3 Biskupiec ( KM PSP 1 Olsztyn)</name>
+			<description><![CDATA[Tel : 89 522 92 05   MSW 7319 206]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>20.9561882,53.8611484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRG Bartoszyce</name>
+			<description><![CDATA[Tel: 89 7649801/00   MSW  7321 100]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>20.8025962,54.2621348,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRG Kętrzyn</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>21.3806766,54.0753507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/jrg.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+							<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/jrg.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
