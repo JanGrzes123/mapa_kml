@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>osp_sasiednie</name>
+		<Placemark>
+			<name>OSP Różyna
+</name>
+			<description>
+			Powiat Bartoszycki<br />
+			Pojazdy: GBA 2,5/16<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>20.9950447,54.223095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Łabędnik
+</name>
+			<description>
+			Powiat Bartoszycki<br />
+			Pojazdy: GLBAM 0,4/2/12<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>20.9622574,54.1817015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Lipica
+</name>
+			<description>
+			Powiat Bartoszycki<br />
+			Pojazdy: GBA 2,5/16<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.1076546,54.3361443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Sępopol
+</name>
+			<description>
+			Powiat Bartoszycki<br />
+			Pojazdy: GBA2,5/27/4,6<br />
+			GCBA 5/32 <br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.0145283,54.2689083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Sątopy
+</name>
+			<description>
+			Powiat Bartoszycki<br />
+			Pojazdy: GBA 2,5/24/5<br />
+			GBA 2,5/16/8<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.0129833,54.061403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Kolno
+</name>
+			<description>
+			Powiat Olsztyński / Miasto Biskupiec<br />
+			Pojazdy: GCBA 6/32/16<br />
+			GBA-Rt 1,6/8<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>20.9935856,53.9978308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Gizewo
+</name>
+			<description>
+			Powiat Mrągowski<br />
+			Pojazdy : GBAM 2,5/16/8<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.2218094,53.9301188,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Szestno
+</name>
+			<description>
+			Powiat Mrągowski<br />
+			Pojazdy: GBAM 2,5/16/8<br />
+			GBA 2,5/16<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.3113308,53.9240289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Wyszembork
+</name>
+			<description>
+			Powiat Mrągowski<br />
+			Pojazdy: GLBA 1/8<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.3592243,53.9293102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Warpuny
+</name>
+			<description>
+			Powiat Mrągowski<br />
+			Pojazdy : GBM 2,5/8<br />
+			GLBM-Rt 0,3/1<br /></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.1721134,53.923195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Kamionki
+</name>
+			<description>
+			Powiat Giżycki<br />
+			Pojazdy :GBA 2,5/16<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.6988993,54.0313179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Ryn
+</name>
+			<description>
+			Powiat Giżycki<br />
+			Pojazdy :GCBA 10/32/4<br />
+			GBA 2,6/16/2,8<br />
+			Sam. Ratownictwa Wodnego + łódka<br /></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.5457344,53.9388351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Sterławki Wielkie
+</name>
+			<description>
+			Powiat Giżycki<br />
+			Pojazdy : GBA 2,5/20/2<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.5850449,54.0129638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Węgielsztyn
+</name>
+			<description>
+			Powiat Wegorzewski<br />
+			Pojazdy : GLBM 02/4<br />
+			</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.6362858,54.2349356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Guja
+</name>
+			<description>
+			Powiat Wegorzewski<br />
+			Pojazdy : GLM 8<br />
+			</description>
+			
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.5922117,54.2652491,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Radzieje
+</name>
+			<description>
+			Powiat Węgorzewski<br />
+			Pojazdy : GBA 2,5/20<br />
+			GLBA 0,3/5<br /></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.5847123,54.1281724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSP Perły
+</name>
+			<description>
+			Powiat Węgorzewski<br />
+			Pojazdy : GBA 2,5/16/8<br />
+			GBA 2,5/16/8<br /></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>21.6683221,54.2960413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/osp_spoza.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+				<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/osp_spoza.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
