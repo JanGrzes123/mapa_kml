@@ -6,8 +6,8 @@
 			<name>OSP KSRG Korsze <br />
 </name>
 			<description>
-			Pojazdy: GCBARt 4/32 Mercedes<br />
-			GCBA 4/32 Jelcz  ,  SLOP VW<br />
+			Pojazdy: 479N21 GCBARt 4/32 Mercedes<br />
+			479N22 GBA 3/16/3 Volvo  <br />
 			Wyposażenie: PSP-R1 , detektor wielogazowy , Hydraulika<br />
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
@@ -18,7 +18,7 @@
 		<Placemark>
 			<name>OSP KSRG Reszel <br /></name>
 			<description>
-			GCBARt 5/32 Jelcz , GBAM 2,5/16 Star , SLOP VW<br />
+			479N32 GCBARt 5/32 Jelcz , 479N31 GBAM 2,5/16/8 Star , 479N34 GBARt 2,5/16 , SLOP VW<br />
 			Wyposazenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br />
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
@@ -29,8 +29,8 @@
 		<Placemark>
 			<name>OSP KSRG Srokowo <br /></name>
 			<description>
-			Pojazdy: GBARt 2,5/25 Man<br />
-			GBAM 2,7/16 Star , SH-18 Star , Łodź<br />
+			Pojazdy: 479N42 GBARt 2,5/25 Man<br />
+			479N41 GBAM 2,5/16/8 STAR , 479N53 SH-18 Star , Łodź śrubowa płaskodenna Ł1<br />
 			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br /></description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
 			<Point>
@@ -41,8 +41,8 @@
 			<name>OSP KSRG Barciany<br />
 </name>
 			<description>
-			Pojazdy: GBARt 2,7/28 Mercedes<br />
-			GBAM 2,5/16 Star<br />
+			Pojazdy: 479N01 GBARt 2,7/28 Mercedes<br />
+			479N02 GBAM 2,5/16/8 Star<br />
 			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br />
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
@@ -54,7 +54,7 @@
 			<name>OSP KSRG Wilkowo<br />
 </name>
 			<description>
-			Pojazdy: GBARt 2,5/24 Mercedes<br />
+			Pojazdy: 479N11 GBARt 2,5/24 Mercedes<br />
 			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny<br />
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
@@ -66,7 +66,7 @@
 			<name>OSP KSRG Drogosze<br />
 </name>
 			<description>
-			Pojazdy: GCBARt 4/38 Scania<br />
+			Pojazdy: 479N51 GCBARt 4/38 Scania<br />
 			Wyposażenie: Zestaw PSP-R1, Zestaw hydrauliczny, detektor wielogazowy, sanie lodowe<br />
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
