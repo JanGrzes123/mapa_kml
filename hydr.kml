@@ -11,7 +11,7 @@
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
 			<Point>
-				<coordinates>21.37880674305654,54.0747388283435 0.0</coordinates>
+				<coordinates>21.3788067,54.0747388 0.0</coordinates>
 			</Point>
 		</Placemark>	
 		<!-- hydranty Pilec -->
@@ -25,7 +25,7 @@
 			</description>
 			<styleUrl>#icon-1499-C2185B</styleUrl>
 			<Point>
-				</>21.230786350917185,53.983660655121575 0.0<//>
+				</>21.2307863,53.9836606 0.0<//>
 			</Point>
 		</Placemark>
 	<Style id='icon-1499-C2185B-normal'>
