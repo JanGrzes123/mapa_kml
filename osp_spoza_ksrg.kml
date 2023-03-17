@@ -25,6 +25,16 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>OSP Kętrzyn <br /></name>
+			<description>
+			Pojazdy: GCBA 6/32 Jelcz<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.2250370,54.0430311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>OSP Mołtajny <br /></name>
 			<description>
 			Pojazdy: GBAM 2,5/16 Star<br />
