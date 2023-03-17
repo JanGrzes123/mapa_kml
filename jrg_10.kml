@@ -4,7 +4,7 @@
 		<name>JRG_1</name>
 		<Placemark>
 			<name>JRG Węgorzewo</name>
-			<description><![CDATA[Tel: 87 427 75 00  MSW 7356500]]></description>
+			<description><![CDATA[Tel. SK KP: 477329970]]></description>
 			<styleUrl>#icon-1899-0288D1</styleUrl>
 			<Point>
 				<coordinates>21.7456931,54.2127693,0.0</coordinates>
@@ -12,7 +12,7 @@
 		</Placemark>
 		<Placemark>
 			<name>JRG Mrągowo</name>
-			<description><![CDATA[Tel: 89 741 05 00  MSW 7328 500]]></description>
+			<description><![CDATA[Tel. SK KP: 477329621]]></description>
 			<styleUrl>#icon-1899-0288D1</styleUrl>
 			<Point>
 				<coordinates>21.307447,53.8641506,0.0</coordinates>
@@ -20,7 +20,7 @@
 		</Placemark>
 		<Placemark>
 			<name>JRG Giżycko</name>
-			<description><![CDATA[Tel: 87 429 91 00 MSW 7352 100]]></description>
+			<description><![CDATA[Tel. SK KP: 477329350]]></description>
 			<styleUrl>#icon-1899-0288D1</styleUrl>
 			<Point>
 				<coordinates>21.7831273,54.0358901,0.0</coordinates>
@@ -28,7 +28,7 @@
 		</Placemark>
 		<Placemark>
 			<name>JRG 3 Biskupiec ( KM PSP 1 Olsztyn)</name>
-			<description><![CDATA[Tel : 89 522 92 05   MSW 7319 206]]></description>
+			<description><![CDATA[Tel : 477319262]]></description>
 			<styleUrl>#icon-1899-0288D1</styleUrl>
 			<Point>
 				<coordinates>20.9561882,53.8611484,0.0</coordinates>
@@ -36,7 +36,7 @@
 		</Placemark>
 		<Placemark>
 			<name>JRG Bartoszyce</name>
-			<description><![CDATA[Tel: 89 7649801/00   MSW  7321 100]]></description>
+			<description><![CDATA[Tel. SK KP: 477329140]]></description>
 			<styleUrl>#icon-1899-0288D1</styleUrl>
 			<Point>
 				<coordinates>20.8025962,54.2621348,0.0</coordinates>
