@@ -1,613 +1,248 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>Hydranty</name>
+		<name>jeziora</name>
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Na chodniku<br />
-			Z drgiej strony ulicy sklepu ogrodniczego.<br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Arklickie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				<coordinates>21.37880674305654,54.0747388283435 0.0</coordinates>
+				<coordinates>21.352272,54.2912824,0.0</coordinates>
 			</Point>
-		</Placemark>	
-		<!-- hydranty Pilec -->
+		</Placemark>
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik przy skrzyżowaniu <br />
-			Wjazd do Pilca<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/wjazd_pilec.jpg"> Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Oświn</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.230786350917185,53.983660655121575 0.0<//>
+				<coordinates>21.569767,54.2941378,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant podziemny 80 <br />
-</name>
-			<description>
-			Chodnik<br />
-			Na chodniku przy ostatniej klatce<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_16b.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Rydzówka</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.378876606844113,54.08782319109901 0.0<//>	
+				<coordinates>21.58144,54.2312233,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Pomiędzy pierwszą i drugą klatką<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_16c.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Węgielsztyńskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.379469,54.087776 0.0<//>	
+				<coordinates>21.6258144,54.2328788,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Pomiędzy pierwszą i drugą klatką<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_16e.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.379400,54.087344 0.0<//>	
-			</Point>
-		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Pomiędzy pierwszą i drugą klatką<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_16d.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.379815706793934,54.08747033441221 0.0<//>	
-			</Point>
-		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant podziemny 80 <br />
-</name>
-			<description>
-			Chodnik<br />
-			Pomiędzy pierwszą i drugą klatką<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_16f.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Pniewskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.37860805872751,54.08735865898738 0.0<//>	
+				<coordinates>21.6525936,54.1649465,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Za siatką pyzy domku 11<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_11.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Mamry</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.378466481680086,54.088774474838964 0.0<//>	
+				<coordinates>21.6928482,54.1689161,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na trawniku<br />
-			Skrzyżowanie Chrobrego ze Skrajną<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_skrajna.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Dobskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.379043589742466,54.08908103056487 0.0<//>	
+				<coordinates>21.6197205,54.0939832,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Za siatką Chrobrego 17<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_15.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.379201,54.089433 0.0<//>	
-			</Point>
-		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant Podziemny 80 <br />
-</name>
-			<description>
-			W chodniku<br />
-			Przy drugiej klatce<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_17b.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Silec</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.379470,54.089943 0.0<//>	
+				<coordinates>21.5321732,54.1780095,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na trawniku<br />
-			Na przeciw ostatniej klatki<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_17c.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.37873398034479,54.08998240655767 0.0<//>	
-			</Point>
-		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Za siatką na posesji nr.15<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_17.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Siniec Wielki</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.379032,54.089322 0.0<//>	
+				<coordinates>21.5237617,54.1544932,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Za siatką na posesji nr.21<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_21.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Mażańskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.37998174844416,54.09004499151524 0.0<//>	
+				<coordinates>21.5182686,54.1217091,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant Nadziemny 80 <br />
-</name>
-			<description>
-			Na chodniku<br />
-			Z lewej strony wjazdu na parking<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_37.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Mój</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.381105798276486,54.09130637147796 0.0<//>	
+				<coordinates>21.4636803,54.0941342,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant podziemny 80 <br />
-</name>
-			<description>
-			W chodniku<br />
-			Z lewej strony drugiej klatki<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/chrobrego_41.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Punkt 12</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.38137860960851,54.09245295036771 0.0<//>	
+				<coordinates>21.4696884,54.0753043,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Na trawniku<br />
-			Za blokiem Nr 1 ( naprzeciw pierwszej kaltki )<br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/krolowej_jadwigi_1.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Kwiedzińskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.381304733139352,54.09354059237151 0.0<//>	
+				<coordinates>21.449604,54.0666417,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Na trawniku<br />
-			Na przeciw pierwszej kaltki <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/krolowej_jadwigi_5.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Tuchel</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.381546,54.094399 0.0<//>	
+				<coordinates>21.4805031,54.0532413,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant podziemny 80 <br />
-</name>
-			<description>
-			W chodniku<br />
-			20 m z prawej strony bloku Nr. 12 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_12.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.37814857767351,54.096905843732195 0.0<//>	
-			</Point>
-		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Na rogu budynku Nr. 12 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_12_1.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Kierstynówko</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.378887497108888,54.097009660572944 0.0<//>	
+				<coordinates>21.5022612,54.0327546,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Koło jezdni przy garażach <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_12_garaze.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Martiany</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.38002503907957,54.09699467124233 0.0<//>	
+				<coordinates>21.5265942,54.0265536,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Koło jezdni przy garażach <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_12_garaze1.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Wersminia</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.3813002690545,54.09687614092559 0.0<//>	
+				<coordinates>21.5099859,54.0191416,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Koło chodnika ( batorego - Jagiełły ) <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_12_2.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Iławki</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.376678,54.096723 0.0<//>	
+				<coordinates>21.5452623,54.0119866,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Koło chodnika ( batorego - Jagiełły ) <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_jagiełły.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Guber</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.37583013817619,54.09656340441102 0.0<//>	
+				<coordinates>21.5315723,53.9767362,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Koło chodnika ( batorego - Jagiełły ) <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/batorego_jagiełły_1.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Kiersztanowskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.374937314259093,54.096476169273295 0.0<//>	
+				<coordinates>21.237731,53.9517168,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Chodnik<br />
-			Przy posesji Nr. 58 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/jagiełły_58.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Trzcinno</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.37376356406999,54.09357285927757 0.0<//>	
+				<coordinates>21.1564493,53.9601508,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Skrzyżowanie przy szkole Nr. 5 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_12_skrzyzowanie.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Widryńskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.37391692208263,54.09303034886971 0.0<//>	
+				<coordinates>21.1656332,53.9837521,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Chodnik<br />
-			Przy głównym wejsciu do Szkoły Nr. 5 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_12_1.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Pasterzewo</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.375494221627054,54.09309535608341 0.0<//>	
+				<coordinates>21.181941,53.98948,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Chodnik<br />
-			Przy parkingu Szkoły Nr. 5 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_12.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Legińskie</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.374166,54.092983 0.0<//>	
+				<coordinates>21.1415148,53.9793105,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Naprzeciwko bloku Kazimierza Wielkiego Nr. 7 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_7.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.378360231137062,54.09322224058006 0.0<//>	
-			</Point>
-		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Naprzeciwko bloku Kazimierza Wielkiego Nr. 3 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_3_1.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Mutek</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.37968299875783,54.09315980645166 0.0<//>	
+				<coordinates>21.1266017,53.9717386,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Przed blokiem Kazimierza Wielkiego Nr. 4 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_4.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Dejnowo</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.380621549051902,54.09298135776187 0.0<//>	
+				<coordinates>21.2240839,54.0021443,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Za blokiem Kazimierza Wielkiego Nr. 3 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/kazimierza_wielkiego_3.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Kławój</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.380736294566887,54.092796818344226 0.0<//>	
+				<coordinates>21.1394119,54.0078696,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Obok murku z prawej strony domu Nr. 10 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/poniatowskiego_10.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Pieckowo</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.383466052895873,54.090770646385735 0.0<//>	
+				<coordinates>21.2530518,54.0423566,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
 		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Obok murku z prawej strony domu Nr. 20 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/poniatowskiego_20.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<name>Jezioro Święta Lipka</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
 			<Point>
-				</>21.38264950113556,54.089756312801775 0.0<//>	
+				<coordinates>21.2242985,54.0784012,0.0</coordinates>
 			</Point>
 		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Obok murku z lewej strony domu Nr. 26 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/poniatowskiego_26.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.381947,54.089203 0.0<//>	
-			</Point>
-		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Chodnik<br />
-			Przy  domu Nr. 34 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/poniatowskiego_34.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.381205550154203,54.08855437849231 0.0<//>	
-			</Point>
-		</Placemark>
-		
-			<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Przy  domu Nr. 2 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/skrajna_2.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.38021749433578,54.0887583058028 0.0<//>	
-			</Point>
-		</Placemark>
-		
-		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Za bramką z lewej strony domu nr.12 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/skrajna_12.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.3812819908788,54.089637656651526 0.0<//>	
-			</Point>
-		</Placemark>
-		
-		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Na posesji<br />
-			Z lewej strony domu nr.24 <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/skrajna_24.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.3823199314223,54.090587897700026 0.0<//>	
-			</Point>
-		</Placemark>
-		
-		<Placemark>
-			<name>Hydrant nadziemny 80 <br />
-</name>
-			<description>
-			Trawnik<br />
-			Naprzeciw ostatniej klatki <br />
-			<a href="https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/dabrowskiego_28.jpg"> - Zdjęcie Hydrantu</a><br />
-			</description>
-			<styleUrl>#icon-1499-C2185B</styleUrl>
-			<Point>
-				</>21.378118373369656,54.09201016276758 0.0<//>	
-			</Point>
-		</Placemark>
-		<!-- End Hydranty Ketrzyn **************************************************************-->
-		
-		<Style id='icon-1499-C2185B-normal'>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
 			<IconStyle>
-				<color>ff5B18C2</color>
+				<color>ffD18802</color>
 				<scale>1.0</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/hydrant4.png</href>
+				<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/rybka.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
 				<scale>0.0</scale>
 			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
 		</Style>
-		<Style id='icon-1499-C2185B-highlight'>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
 			<IconStyle>
-				<color>ff5B18C2</color>
+				<color>ffD18802</color>
 				<scale>1.0</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/hydrant4.png</href>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/rybka.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
 				<scale>1.0</scale>
 			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
 		</Style>
-		<StyleMap id='icon-1499-C2185B'>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#icon-1499-C2185B-normal</styleUrl>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#icon-1499-C2185B-highlight</styleUrl>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 	</Document>
