@@ -1,0 +1,4012 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Hydranty</name>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na chodniku<br />
+			Z drgiej strony ulicy sklepu ogrodniczego.<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37880674305654,54.0747388283435 0.0</coordinates>
+			</Point>
+		</Placemark>	
+		<!-- hydranty Pilec -->
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik przy skrzyżowaniu <br />
+			Wjazd do Pilca<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/wjazd_pilec.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.230786350917185,53.983660655121575 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Plac remizy strażackiej <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/remiza_pilec.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.233434695448516,53.983371981664874 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Pilec 24 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/pilec_24.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.232205469881897,53.983162223887206 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Pilec 12 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/pilec_12.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.235953053476386,53.98377674596744 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			50 metrów od remizy <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/hydrant_50_od_remizy.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.234464814241473,53.98006736177334 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Wjazd do Leśnictwa <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/do_lesnictwa.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.209078627268266,53.97161667676456 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<!-- END hydranty Pilec -->
+		<!-- Hydrant reszel -->
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Mickiewicz 4 Reszel <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mickiewicza_4_reszel.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.142411,54.048935 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<!-- Koniec -->
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Wileńska 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/wilenska_kosciol.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372541,54.075299 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Wileńska 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/wilenska_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371845,54.074458 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Wilanowska 17<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/wilanowska_17.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.366375,54.068563 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Wierzbowa 15<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/wierzbowa_15.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.377410,54.091970 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Za siatką<br />
+			Tuwima 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/tuwima_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372101,54.069556 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Traugutta miedzy rondami<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/traugutta.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.377937,54.075551 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Świerkowa 94<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/swierkowa_94.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356580,54.072643 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Świerkowa 106<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/swierkowa_106.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.355330,54.073275 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Parking<br />
+			Świerkowa 72<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/swierkowa_72.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.359720,54.073521 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Świerkowa 71<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/swierkowa_71.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.360003,54.072818 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Stanisława Staszica 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/staszica_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.363644,54.077245 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Staromiejska / Daszyńskiego<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/staromiejska.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374374,54.075349 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Sportowa 8<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sportowa_8.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.382915,54.081622 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Spokojna 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/spokojna_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.396082,54.074995 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji za ogrodzeniem<br />
+			Sobieskiego 38<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sobieskiego_38.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371596,54.094102 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Sobieskiego 30<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sobieskiego_30.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371915,54.093347 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Sobieskiego 14<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sobieskiego_14.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371827,54.092088 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Sobieskiego 13<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sobieskiego_13.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.370965,54.089746 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Sobieskiego 8<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sobieskiego_8.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371739,54.091591 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Słoneczna 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sloneczna_3.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.361335,54.078016 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Skłodowskiej - Curie 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sklodowskiej_curie.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374380,54.083133 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Parkink<br />
+			Sikorskiego 39<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sikorskiego_39.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.367948,54.079708 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Ulica<br />
+			Powstańców Warszawy 1 przy Millenium<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/powstancow_warszawy_1.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373917,54.078140 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Polna 3 / Staszica<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/polna_3.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.364874,54.077395 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Przy schodach Asnyka 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/asnyka_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379158,54.077173 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przy garażu Bałtycka 10a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/baltycka_10a.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.386040,54.080056 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Za blokiem Bałtycka 10b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/baltycka_10b.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.386479,54.080413 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Na przeciw pierwszwj klatki<br />
+			Królowej Bony 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/krolowej_bony_1.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378995,54.096480 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Naprzeciw Broniewskiego 10<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/broniewskiego_10.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.354725,54.078914 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Plac teren bazy PGK Komunalnik<br />
+			Budowlana 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/budowlana_1.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.391253,54.082673 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik za siatką<br />
+			Z prawej strony budynku Budowlana 5<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/budowlana_5.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.390944,54.082561 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Trawa na rogu ogrodzenia<br />
+			Wyjazd z kętrzyna ( przy znaku )<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/bydgoska_stacja_gazu.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365251,54.067813 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Wysepka skrzyżowanie dróg<br />
+			Wyjazd z Bydgoskiej w Ogrodową<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/ogrodowa_bydgoska.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374411,54.071002 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Parkink przy budynku<br />
+			Cicha 2a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/cicha2a.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.395182,54.074983 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciw trzeciej klatki<br />
+			Daszyńskiego 29b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/daszynskiego_29b.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365395,54.078028 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia skrzyżowanie z Moniuszki<br />
+			Daszyńskiego 18<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/daszynskiego_18.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.368300,54.077883 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik przy budynku<br />
+			Dębowa 18<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/debowa_18.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356290,54.073295 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Dębowa 26<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/debowa_26.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356963,54.073299 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Teren Philipsa ul Diehla<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/diehla.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378927,54.083571 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Pow. Warszawy 13/ Urząd Skarbowy<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/powstancow_warszawy_13.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372240,54.077169 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Prawa strona budynku Poznańska 11<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_11.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365672,54.074380 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw Try Lipy nr. 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/trzy_lipy_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.348743,54.076728 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Sikorskiego 33/ Zjazd z Wojska Polskiego<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sikorskiego_33.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.369487,54.079380 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Lewa strona budynku Sadowa 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sadowa_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.385756,54.075909 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Parking<br />
+			Naprzecie budynku Rynkowa 16<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rynkowa_16.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.368137,54.088145 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przy hali MTI Rynkowa 10<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rynkowa_8.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.368646,54.087139 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Z lewej strony budynku Rybna 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rybna_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375758,54.078133 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Wjazd na Orlen Reymonta 15<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reymonta_15.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.386968,54.078019 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw budynku Rataja 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rataja_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.345571,54.086993 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przemysłowa 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/przemyslowa_3.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.403909,54.077260 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przemysłowa 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/przemyslowa_1.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.403421,54.076473 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw budynku Poznańska 46<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_46.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.357102,54.077847 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Róg budynku  Poznańska 23<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_23.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356191,54.077658 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Z prawej strony budynku Poznańska 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.368690,54.073869 0.0</coordinates>
+			</Point>
+		</Placemark>
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Prawa strona wjazd na Poznańską z Mazurskiej<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_mazurska.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.361764,54.075729 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Parking<br />
+			Naprzeciw budynku Poznańska 52<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_52.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.355786,54.078316 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw bodynku Poznańska 40<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_40.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.358096,54.077404 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Poznańska 20/ Mazurska<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_20.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.361679,54.075853 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw budynku Poznańska 14<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poznanska_14.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.363334,54.075092 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Pow. Warszawy 12/ Pionierska 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/powstancow_warszawy_12.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.369100,54.075721 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Lewa strona budynku Pow. Warszawy 17a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/powstancow_warszawy_17a.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371607,54.076900 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Pow. Warszawy 16<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/powstancow_warszawy_16.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.368485,54.074912 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw  klatki Piastowska 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375255,54.090184 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Prawa strona budynku Polna 8<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/polna_8.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.361913,54.078878 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Naprzeciw Piłsudskiego 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/pilsudskiego_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372272,54.078490 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Piwna 17 tylne wejście do sklepu<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piwna_17.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.376808,54.076508 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Naprzeciw  Piwnej 7<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piwna_7.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.377753,54.076169 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Pionierska 3 / Moniuszki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/pionierska_3.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.366820,54.076221 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw  drugiej klatki Piastowska 10<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_10.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375424,54.090819 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw  drugiej klatki Piastowska 8<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_8.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375804,54.090734 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw  drugiej klatki Piastowska 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375446,54.090481 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw  klatki Piastowska 5<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_5.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374667,54.090774 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw drugiej klatki Piastowska 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_3.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374483,54.090484 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw klatek Piastowska 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/piastowska_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374878,54.090200 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Przy budynku Elizy Orzeszkowej 29<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/orzeszkowej_29.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371704,54.067591 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy budynku Ogrodowa 5<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/ogrodowa_5.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374919,54.070610 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Za budynkiem Ogrodowa 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/ogrodowa_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375070,54.069932 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Nowe Osiedle 13 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/nowe_osiedle_13.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.397950,54.075618 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Nowe Osiedle 6a / Spokojna<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/nowe_osiedle_6a.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.397666,54.075067 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Jagiełły 43<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_43.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373041,54.090040 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Naprzeciw Niepodległośi 15<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/niepodleglosci_15.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365252,54.070142 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Mazurska 28/ Pionierska<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mazurska_28.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365236,54.076733 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Mazurska 8<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mazurska_8.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.367974,54.079094 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy budynku Łąkowa 13<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/lakowa_13.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.347168,54.087255 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Z lewej strony budynku Łakowa 1 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/lakowa_1.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.348564,54.086508 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Naprzeciw budynku Leśna 4 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/lesna_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.370369,54.070717 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Z lewej strony Kraszewskiego 27 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kraszewskiego_27.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.398703,54.073550 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Naprzeciw Kraszewskiego 11 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kraszewskiego_11.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.395641,54.073364 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Naprzeciw Kopernika 2 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kopernika_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372542,54.079118 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Wjazd do Kościuszki 5 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kosciuszki_5.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375827,54.079141 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Wjazd w Kołobrzeską od policji <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kolobrzeska_policja.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.370123,54.080038 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Z prawej strony budynku Klonowa 6a <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/klonowa_6a.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.354396,54.076026 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Za budynkiem Klonowa 6 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/klonowa_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.354861,54.075042 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Kaszubska 12/ Lanca <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kaszubska_12.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.376178,54.077534 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Róg budynku Jaśminowa 4 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jasminowa_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.354293,54.076244 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Jagiełły 63 / wjazd w Sobieskiego <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_63.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373596,54.091811 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Jagiełły 52<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_52.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374112,54.092633 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Jagiełły 46<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_46.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374055,54.092176 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Parking<br />
+			Jagiełły 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373142,54.087590 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Jagiełły 36<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_36.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373770,54.091416 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Jagiełły 33b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_33b.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372965,54.088806 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Jagiełły 28<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_28.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373516,54.090765 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia<br />
+			Jagiełły 10<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_10.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373062,54.089269 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Naprzeciw Jagiełły 11<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagielly_11.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372887,54.086378 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciwko Straży przy ul. Krótkiej<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3815279833279,54.0746852455832 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 100 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Na przeciwko straży<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3804240360271,54.0749115297706 0.0</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przy skupie złomu ul. Dworcowa<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/dworcowa_1.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3792314583853,54.0736884791646 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Naprzeciw domu Mała 22<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mala_22.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.399419,54.072343 0.0</coordinates>
+			</Point>
+		</Placemark>
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Wjazd w Konopnickiej naprzeciw sklepu<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/konopnickiej_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.369462,54.068935 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw domu Konopnickiej 14<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/konopnickiej_14.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.369927,54.068036 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik na posesji<br />
+			Klonowa 11<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/klonowa_11.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.357054,54.075005 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Naprzeciw bloku Łokietka 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/lokietka_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374633,54.091507 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawa<br />
+			Przy bloko Pomorska 17 wjazd w Wąską<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/pomorska_17.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.360323,54.077595 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy Notariuszu ul.Mickiewicza<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mickiewicza.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3737220116681,54.076498448542 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przy bloku Górna 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_2.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3554878309461,54.0833683981478 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przy Aptece w Polo markecie Urocza 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/urocza_4.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.366956,54.081639 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na placu zabaw Przedszkola Prywatnego<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_18.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.366789170202686,54.082675412967546 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciwko domu kochanowskiego 25<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kochanowskiego_25.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371289,54.066385 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciw bloku Limanowskiego 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_3.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.382973,54.074920 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciw bloku Limanowskiego 17 z prawej strony<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_17.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.386092,54.074712 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciw bloku Limanowskiego 11<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_11.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.384454,54.074795 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Końcówka lini Zatoczka za Brzechwy 15<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/brzechwy_15.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371056,54.065342 0.0</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciwko domu Brzechwy 14<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/brzechwy_14.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.368681,54.066278 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Różana 6<br />
+			Z lewej strony Delikatesów<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rozana_6.jpg"> Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.36485555518619,54.082057608287464 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<!-- Hydranty Korsze **************************************************************-->
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1447263832134,54.1806851331369 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1440351648549,54.1796921436898 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1435307335991,54.1783339171145 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1429018355152,54.1772191758489 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1422632788807,54.1759169472274 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1417084707305,54.1749081136254 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wojska Polskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1412539911519,54.1740717452665 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Racławicka<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1426910235934,54.1802120194257 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Powstańców<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1423125242734,54.1786370830326 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Zwyciezców<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1404156452583,54.1773036120731 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Polna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1419215602642,54.1759364310303 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wileńska<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1453213972227,54.1754067580552 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wileńska<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1465602350665,54.1750629807042 0.0</coordinates>
+			</Point>
+		</Placemark>
+	   <Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wileńska<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1487832853036,54.1743129118145 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Krasińskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.149567425293,54.1731327637271 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Krasińskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.149567425293,54.1731327637271 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Krasińskiego<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1501426215932,54.1718893216174 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kopernika<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1459292274444,54.1739080800258 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kopernika<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1448072290005,54.173418720926 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Ogrodowa<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1411073307114,54.173002033238 0.0</coordinates>
+			</Point>
+		</Placemark>
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Ogrodowa<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1442295688966,54.1724103054509 0.0</coordinates>
+			</Point>
+		</Placemark>
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kolejowa<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1357618875028,54.1734588868426 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Choppina<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1520204091398,54.1715340735065 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Konopnickiej<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1237852870494,54.1747028563816 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Konopnickiej<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1231796177438,54.174029937172 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Konopnickiej<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1227456026108,54.1731395253422 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Szkolna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1250768098518,54.1744924117108 0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Szkolna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1260828707044,54.1736167962876 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Szkolna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1267962767432,54.1728267659805 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Szkolna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1275317938367,54.1720229364189 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Szkolna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1342388417779,54.1638484234198 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Szkolna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1364471227008,54.1619326907589 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kościuszki<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1302087830839,54.1712115732151 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kościuszki<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1325265064911,54.1714118127738 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kościuszki<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1354343615117,54.1706498584178 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Kościuszki<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1372582894751,54.1701349485353 0.0</coordinates>
+			</Point>
+		</Placemark> 
+				<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1391741586139,54.169631780933 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1410180506408,54.1690628424174 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.142487048131,54.1687552239547 0.0</coordinates>
+			</Point>
+		</Placemark> 
+				<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1431177948047,54.1685831489214 0.0</coordinates>
+			</Point>
+		</Placemark> 
+				<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1436994265357,54.1683449250147 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1468254386225,54.1678334831563 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1533455260989,54.1666983266785 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1542549315089,54.1666150361481 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1554740919829,54.1663385361262 0.0</coordinates>
+			</Point>
+		</Placemark> 
+				<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wolności<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.157019012178,54.1661768236431 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1579421565249,54.1659190060553 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wiejska<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1575538270355,54.1650412982107 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wiejska<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1579193348761,54.1659194151471 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			Wiejska<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1555464776125,54.1637770645092 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		     Długa<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1559899815334,54.1643991131906 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		     Słoneczna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1522523468868,54.1650021573917 0.0</coordinates>
+			</Point>
+		</Placemark> 
+				<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		     Słoneczna<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1525776625672,54.1659882405639 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1525776625672,54.1659882405639 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1565842070978,54.1630882748926 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1295315677947,54.1611437560505 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1251370149171,54.1614090731774 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1295087483495,54.1611441597348 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1251356419927,54.1613822894472 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		     Mickiewicza<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1383020821128,54.1682264490294 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		     Mickiewicza<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1373713005255,54.166567477181 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		    Nukajmy<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.116151705004,54.1813649820701 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		    Nukajmy<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.1151150152854;54.1807532133157 0.0</coordinates>
+			</Point>
+		</Placemark> 
+			<Placemark>
+			<name>Hydrant  <br />
+</name>
+			<description>
+		    Nukajmy<br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.114346850134,54.1800294894139 0.0</coordinates>
+			</Point>
+		</Placemark> 
+		
+		<!-- End Hydranty Korsze **************************************************************-->
+		<!-- Hydranty Kętrzyn *****************************************************************-->
+		<Placemark>
+			<name>Hydrant podzieny 80 <br />
+</name>
+			<description>
+			Chodnik <br />
+			przy bloku Sienkiewicza 25<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sienkiewicza_25.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.35644704780703,54.07945206414301 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podzieny 80 <br />
+</name>
+			<description>
+			Chodnik <br />
+			przy bloku Kołłątaja 5<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kollataja_5.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.359435460109335,54.079112914443485 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Jezdnia przy bloku <br />
+             Sienkiewicza 7<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sienkiewicza_7.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.358669,54.078666 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Z prawej strony bloku <br />
+			Żeromskiego 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/zeromskiego_3.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3633658295468,54.079147438460886 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik przy Kwiatowa 2  <br />
+			<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kwiatowa_2.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.361678,54.080415 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik przy Kołłątaja 6  <br />
+			<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kollataja_6.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.360274,54.078681 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik przy Żeromskiego 35  <br />
+			<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/zeromskiego_35.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.358773,54.080263 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik przy Żeromskiego 19  <br />
+			Naprzeciw Praktera<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/zeromskiego_19.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.360863249471652,54.07947113009717 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Ulica przy bloku  <br />
+			Żeromskiego 14c<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/zeromskiego_14c.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.359351,54.080862 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik naprzeciwko bloku  <br />
+			Kołłątaja 20<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kollotaja_20.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.357383,54.080034 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik przy  <br />
+			Broniewskiego 2a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/broniewskiego_2a.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356997,54.080204 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Przy drodze z lewej strony wjazdu <br />
+			do MOPS<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_8_MOPS.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356944,54.084657 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy drodze z lewej strony wjazdu <br />
+			do stacji BP<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gdanska_BP.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.357442,54.081013 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy drodze z lewej strony budynku <br />
+			Gdańska 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gdanska_6.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.35556720185844,54.08003881318828 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na polu z prawej strony za drogą <br />
+			Górna 23<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_23.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.36129297491504,54.08802183564552 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy domu <br />
+			Górna 15b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_15b.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.35924861918213,54.087574626628644 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Przy domu <br />
+			Górna 8g<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_8g.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.357603713528974,54.08402815022376 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy domu <br />
+			Górna 15<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_15.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.35991956349262,54.08701700332969 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Wjazd do Domu Weselnego <br />
+			Górna 11<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_11_domweselny.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.359375560657856,54.085822886426136 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Hotel Agros <br />
+			Kasztanowa 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kasztanowa_1_agros.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.355207508679985,54.08194850677992 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Naprzeciw salonu Fiata Górna 1<br />
+			Górna 6<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_6_naprzeciw_fiata.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356205632100135,54.08386238554685 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy pierwszej klatce<br />
+			Górna 3b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_3b.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.356922,54.084984 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Przy przystanku autobusowym<br />
+			Narzeciw Górnej 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/gorna_2_przystanek.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.355414,54.083055 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy wejściu do budynku<br />
+			Limanowskiego 4<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_4.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.383384038659486,54.074652204055496 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku <br />
+			przy budynku Limanowskiego 23b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_23.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3877344954706,54.07445641798413 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku i barierkach<br />
+			Z drugiej strony ulicy Limanowskiego 32b<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_32b.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.390704,54.074461 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy budynku<br />
+			Limanowskiego 23a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_23a.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.39208884199184,54.074646023971525 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy skrzyżowaniu<br />
+			Limanowskiego ( 36) z Kasprowicza ( 7)<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_25.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.393428,54.075077 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Naprzeciw budynku Limanowskiego 33<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_33.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.39507402677604,54.07575574608742 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Z prawej strony budynku Limanowskiego 39<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/limanowskiego_39.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3966912853095,54.076005341111355 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Skrzyżowanie ulic<br />
+			Mazowiecka przy komisie samochodowym ( SHEL )<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mazowiecka_komis.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.397953300800307,54.07647381658485 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Wjazd do MTI Zbożowa<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/zbozowa_mti.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.399143,54.079758 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Stacja paliw Bricimarche<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/stacjapaliw_brico.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.393885,54.077634 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Bricimarche<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/bricomarche.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.392509022095783,54.07803832918076 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Naprzeciw skrzyżowania Mazowiecka-Kasprowicza<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mazowiecka_kasprowicza.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.390830,54.077862 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Po drugiej stronie ulicy od Orlenu<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mazowiecka_6_za_orlenem.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.389516,54.078063 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Po drugiej stronie ulicy od Orlenu<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/mazowiecka_6_naprzeciw_orlenu.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.386957,54.078504 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawa<br />
+			Za budynkiem Bałtycka 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/baltycka_2_tyl.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.38415984407157,54.079371754437574 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Naprzeciw budynku Bałtycka 2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/baltycka_2.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.383697836236077,54.07983090400265 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku<br />
+			Prawa strona budynku Szpitalna 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/szpitalna_3.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.383173,54.080646 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Trawa przy stadninie<br />
+			Sportowa 1 naprzeciw Mosiru<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/sportowa_1_stadnina.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.381011870518005,54.080864605441 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw kajki 9<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kajki_9.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373672,54.079763 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Trawnik naprzeciw Różanej 1<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rozana_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37042269120968,54.0823639527536 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik przy parkingu<br />
+			Reja 8a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reja_8a1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374182377644427,54.08202954192085 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemnu 80 <br />
+</name>
+			<description>
+			Ulica skrzyżowanie ulic<br />
+			Reja 2 z Kajki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reja_2.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374211,54.080678 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw drugiej klatki Reja 8a<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reja_8a.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37388733317711,54.08152730566939 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Przy chodniku z prawej strony budynku<br />
+			Reja 9<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reja_9.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.372126,54.081316 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik przy budynku ZUS Reja 10<br />
+			Od Wojska Polskiego<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reja_10_zus_wojska.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371540,54.081824 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik przy budynku ZUS<br />
+			Od Reja 10<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/reja_10_zus.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.371798,54.081623 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			W trawie<br />
+			Z lewej strony od wejscia do przedszkola<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_18_przedszkole.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.366929,54.083156 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			W chodniku<br />
+			Naprzecie drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_10.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.364946,54.082643 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Na trawniku<br />
+			Naprzecie ostatniej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_8.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.363383,54.083144 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+         </name>
+			<description>
+			Na chodniku<br />
+			Z lewej strony budynku<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_4.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.362200,54.081530 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawie<br />
+			Naprzeciwko drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/urocza_5.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365801,54.081317 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawie<br />
+			Naprzeciwko drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/urocza_3.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.365189,54.081042 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawie<br />
+			Naprzeciwko drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/urocza_1a.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.363984,54.081075 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawie<br />
+			Naprzeciwko drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/urocza_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.364594,54.081021 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawie<br />
+			Naprzeciwko drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rozana_12.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.362749203213916,54.08136807462453 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawie<br />
+			Naprzeciwko drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/rozana_8.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.214904,54.045505 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Na chodniku<br />
+			Przy skrzyżowaniu Harcerska - Kołobrzeska<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/miejska_8.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.369042,54.080950 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hydrant nadziemy 80 <br />
+</name>
+			<description>
+			Na chodniku<br />
+			Naprzeciw drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kolobrzeska_3.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.36909180781478,54.08131654757587 0.0</coordinates>	
+			</Point>
+		</Placemark>
+				<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Na parkingu<br />
+			Naprzeciw ostatniej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_20.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.367946,54.083231 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawniku<br />
+			Przy bloku Miejska 3<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/miejska3.jpg"> - Zdjecie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.367877,54.080357 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			W jezdni<br />
+			Naprzeciw ostatniej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_22.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.36877137043844,54.08342792796572 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawa<br />
+			Pomiedzy pierwszą a drugą klatką<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_26.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.370739,54.083730 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Trawa<br />
+			Naprzeciw ostatniej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/westerplatte_28.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37159556971943,54.083500272789784 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawa<br />
+			Na parkingu z prawej strony Hotelu Wanda<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/wojska_polskiego_27.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37258205164985,54.08329581830659 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawa<br />
+			Pomiędzy chodnikiem a parkingiem bloku nr.2<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_2.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.373590,54.084617 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Na chodniku przy ostatniej klatce<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_16b.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378876606844113,54.08782319109901 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nzdziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Pomiędzy pierwszą i drugą klatką<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_16c.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379469,54.087776 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Pomiędzy pierwszą i drugą klatką<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_16e.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379400,54.087344 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Pomiędzy pierwszą i drugą klatką<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_16d.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379815706793934,54.08747033441221 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Pomiędzy pierwszą i drugą klatką<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_16f.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37860805872751,54.08735865898738 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Za siatką pyzy domku 11<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_11.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378466481680086,54.088774474838964 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na trawniku<br />
+			Skrzyżowanie Chrobrego ze Skrajną<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_skrajna.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379043589742466,54.08908103056487 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Za siatką Chrobrego 17<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_15.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379201,54.089433 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant Podziemny 80 <br />
+</name>
+			<description>
+			W chodniku<br />
+			Przy drugiej klatce<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_17b.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379470,54.089943 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na trawniku<br />
+			Na przeciw ostatniej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_17c.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37873398034479,54.08998240655767 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Za siatką na posesji nr.15<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_17.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.379032,54.089322 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Za siatką na posesji nr.21<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_21.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37998174844416,54.09004499151524 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant Nadziemny 80 <br />
+</name>
+			<description>
+			Na chodniku<br />
+			Z lewej strony wjazdu na parking<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_37.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.381105798276486,54.09130637147796 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			W chodniku<br />
+			Z lewej strony drugiej klatki<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/chrobrego_41.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.38137860960851,54.09245295036771 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawniku<br />
+			Za blokiem Nr 1 ( naprzeciw pierwszej kaltki )<br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/krolowej_jadwigi_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.381304733139352,54.09354059237151 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na trawniku<br />
+			Na przeciw pierwszej kaltki <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/krolowej_jadwigi_5.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.381546,54.094399 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant podziemny 80 <br />
+</name>
+			<description>
+			W chodniku<br />
+			20 m z prawej strony bloku Nr. 12 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_12.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37814857767351,54.096905843732195 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Na rogu budynku Nr. 12 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_12_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378887497108888,54.097009660572944 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Koło jezdni przy garażach <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_12_garaze.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.38002503907957,54.09699467124233 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Koło jezdni przy garażach <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_12_garaze1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3813002690545,54.09687614092559 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Koło chodnika ( batorego - Jagiełły ) <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_12_2.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.376678,54.096723 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Koło chodnika ( batorego - Jagiełły ) <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_jagiełły.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37583013817619,54.09656340441102 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Koło chodnika ( batorego - Jagiełły ) <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/batorego_jagiełły_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374937314259093,54.096476169273295 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy posesji Nr. 58 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/jagiełły_58.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37376356406999,54.09357285927757 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Skrzyżowanie przy szkole Nr. 5 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_12_skrzyzowanie.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37391692208263,54.09303034886971 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy głównym wejsciu do Szkoły Nr. 5 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_12_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.375494221627054,54.09309535608341 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy parkingu Szkoły Nr. 5 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_12.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.374166,54.092983 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciwko bloku Kazimierza Wielkiego Nr. 7 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_7.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378360231137062,54.09322224058006 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciwko bloku Kazimierza Wielkiego Nr. 3 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_3_1.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.37968299875783,54.09315980645166 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przed blokiem Kazimierza Wielkiego Nr. 4 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_4.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.380621549051902,54.09298135776187 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Za blokiem Kazimierza Wielkiego Nr. 3 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/kazimierza_wielkiego_3.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.380736294566887,54.092796818344226 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Obok murku z prawej strony domu Nr. 10 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poniatowskiego_10.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.383466052895873,54.090770646385735 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Obok murku z prawej strony domu Nr. 20 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poniatowskiego_20.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.38264950113556,54.089756312801775 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Obok murku z lewej strony domu Nr. 26 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poniatowskiego_26.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.381947,54.089203 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Chodnik<br />
+			Przy  domu Nr. 34 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/poniatowskiego_34.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.381205550154203,54.08855437849231 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+			<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Przy  domu Nr. 2 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/skrajna_2.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.38021749433578,54.0887583058028 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Za bramką z lewej strony domu nr.12 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/skrajna_12.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3812819908788,54.089637656651526 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Na posesji<br />
+			Z lewej strony domu nr.24 <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/skrajna_24.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.3823199314223,54.090587897700026 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hydrant nadziemny 80 <br />
+</name>
+			<description>
+			Trawnik<br />
+			Naprzeciw ostatniej klatki <br />
+			<a href="http://www.straz.ketrzyn.pl/mapa/zdjecia_hydrantow/dabrowskiego_28.jpg"> - Zdjęcie Hydrantu</a><br />
+			</description>
+			<styleUrl>#icon-1499-C2185B</styleUrl>
+			<Point>
+				<coordinates>21.378118373369656,54.09201016276758 0.0</coordinates>	
+			</Point>
+		</Placemark>
+		<!-- End Hydranty Ketrzyn **************************************************************-->
+		
+		<Style id='icon-1499-C2185B-normal'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/hydrant4.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1499-C2185B-highlight'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/JanGrzes123/mapa_kml/main/hydrant4.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1499-C2185B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1499-C2185B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1499-C2185B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
